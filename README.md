@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Bakery order and custom cake booking platform**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **nzinlud963@gmail.com**
 

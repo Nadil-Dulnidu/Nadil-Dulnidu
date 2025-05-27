@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadil Dulnidu</h1>
 <h3 align="center">An undergaduate at SLIIT from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadil-dulnidu&label=Profile%20views&color=0e75b6&style=flat" alt="nadil-dulnidu" /> </p>
-
 - 🔭 I’m currently working on **Bakery order and custom cake booking platform**
 
 - 🌱 I’m currently learning **Spring Boot**

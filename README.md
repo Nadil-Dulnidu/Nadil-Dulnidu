@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadil Dulnidu</h1>
 <h3 align="center">An IT Undergraduate from Sri Lanka</h3>
 - 🌱 I’m currently learning **React**
+
 - 📫 How to reach me **nzinlud963@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Estava - Real state listing platform**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **dulniduthennakoon@gmail.com**
 

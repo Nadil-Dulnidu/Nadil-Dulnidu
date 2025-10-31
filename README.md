@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadil Dulnidu</h1>
 <h3 align="center">An IT Undergraduate from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **Estava - Real state listing platform**
-
-- 🌱 I’m currently learning **NodeJS**
-
 - 📫 How to reach me **dulniduthennakoon@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>

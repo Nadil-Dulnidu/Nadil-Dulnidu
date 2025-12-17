@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Multi-agent chat system<br>🌱 I’m currently learning Langchain and LLMOps<br>⚡ Fun fact I love to play games
+🔭 I’m currently working on **Multi-agent chat system** <br>
+🌱 I’m currently learning **Langchain and LLMOps** <br>
+⚡ Fun fact **I love to play games**
 
 
 ## 🌐 Socials:

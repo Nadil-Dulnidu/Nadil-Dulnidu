@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **AI Powerd Hardware Store Management System** <br>
-🌱 I’m currently learning **LLMOps** <br>
+🌱 I’m currently learning **ADK & A2A** <br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nzinlud) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zinlu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadil-dulnidu) 

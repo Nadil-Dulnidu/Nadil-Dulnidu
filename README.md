@@ -40,8 +40,6 @@ Enthusiastic undergraduate driven by a passion for AI engineering and full stack
 
 ---
 
----
-
 <div align="center">
 
 ⚡ I'm an avid gamer, ask me about my favorite game or the latest tech in gaming!

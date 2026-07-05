@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Undergraduate Agentic AI Developer | Polonnaruwa, Sri Lanka
+### Undergraduate Agentic AI Developer | Sri Lanka
 
 Enthusiastic undergraduate driven by a passion for AI engineering and full stack development. I thrive on building real-world applications that leverage cutting-edge technologies, from LLM-based systems to scalable backends. I'm ready to make an impact as an AI Engineer Intern by crafting intelligent, production-ready solutions.
 
